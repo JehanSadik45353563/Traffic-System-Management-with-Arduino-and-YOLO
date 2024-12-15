@@ -29,7 +29,7 @@ Requirements
 
 Installation
 1. Clone the repository:
-   git clone 
+   git clone https://github.com/JehanSadik45353563/Traffic-System-Management-with-Arduino-and-YOLO.git
    cd traffic-system-management
 2. Install the required Python libraries:
    pip install -r requirements.txt
